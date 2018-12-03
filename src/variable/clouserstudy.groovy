@@ -24,7 +24,7 @@ int fab2(int number) {
     }
     return result
 }
-//println fab2(5)
+println fab2(5)
 /**
  * 累加
  */
@@ -35,7 +35,7 @@ int cal(int number) {
     }
     return result
 }
-//println cal(100)
+println cal(101)
 
 /*************************************String与闭包的结合使用**************************/
 /*String str = 'the 2 and 3 is 5'
